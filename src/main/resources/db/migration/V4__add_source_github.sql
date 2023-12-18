@@ -1,0 +1,1 @@
+INSERT INTO `assignment`.`source` (`name`) VALUES ('Github');
